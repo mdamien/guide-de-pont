@@ -4,29 +4,37 @@
             "nom": "Salon 1+Diffusion",
             "adresse": "23 rue Charles Lescot",
             "quartier": "centre-ville",
-            "telephone": "03 44 70 17 60",
-            "horaires": "Du mardi au vendredi de 9h à 19h, et le samedi de 8h à 17h"
+            "telephone": "03 44 70 17 60"
         },
         {
             "nom": "TCHIP",
             "adresse": "19 rue Georges Decroze",
             "quartier": "centre-ville",
-            "telephone": "03 44 32 26 71",
-            "horaires": "Du mardi au vendredi de 9h à 19h, et le samedi de 8h30 à 18h"
+            "telephone": "03 44 32 26 71"
         },
         {
             "nom": "50 Nuances",
             "adresse": "783 rue Pasteur",
             "quartier": "centre-commercial Intermarché",
-            "telephone": "03 44 31 60 59",
-            "horaires": "Du mardi au vendredi de 9h à 19h, et le samedi de 8h30 à 18h"
+            "telephone": "03 44 31 60 59"
         },
         {
             "nom": "Saint Algue",
             "adresse": "783 rue Pasteur",
             "quartier": "centre-commercial Leclerc",
-            "telephone": "03 44 64 02 35",
-            "horaires": "Du mardi au samedi de 9h à 19h30"
+            "telephone": "03 44 64 02 35"
+        },
+        {
+            "nom": "Stéf Coiff",
+            "adresse": "5 Rue Jean Perronet",
+            "quartier": "centre-ville",
+            "telephone": "03 44 31 11 69"
+        },
+        {
+            "nom": "Just For Men",
+            "adresse": "8 Rue Charles Lescot",
+            "quartier": "centre-ville",
+            "telephone": "03 44 31 11 69"
         }
     ]
 }
