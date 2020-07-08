@@ -17,16 +17,16 @@
 		{
 			"nom": "50 Nuances",
 			"adresse": "783 rue Pasteur",
-			"quartier": "centre-commercial intermarché",
+			"quartier": "centre-commercial Intermarché",
 			"telephone": "03 44 31 60 59",
 			"horaires": "Du mardi au vendredi de 9h à 19h, et le samedi de 8h30 à 18h"
 		},
 		{
-			"nom": "50 Nuances",
+			"nom": "Saint Algue",
 			"adresse": "783 rue Pasteur",
-			"quartier": "centre-commercial intermarché",
-			"telephone": "03 44 31 60 59",
-			"horaires": "Du mardi au vendredi de 9h à 19h, et le samedi de 8h30 à 18h"
+			"quartier": "centre-commercial Leclerc",
+			"telephone": "03 44 64 02 35",
+			"horaires": "Du mardi au samedi de 9h à 19h30"
 		}
 	]
 }
