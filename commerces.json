@@ -1,32 +1,32 @@
 {
-	"Coiffure": [
-		{
-			"nom": "Salon 1+Diffusion",
-			"adresse": "23 rue Charles Lescot",
-			"quartier": "centre-ville",
-			"telephone": "03 44 70 17 60",
-			"horaires": "Du mardi au vendredi de 9h à 19h, et le samedi de 8h à 17h"
-		},
-		{
-			"nom": "TCHIP",
-			"adresse": "19 rue Georges Decroze",
-			"quartier": "centre-ville",
-			"telephone": "03 44 32 26 71",
-			"horaires": "Du mardi au vendredi de 9h à 19h, et le samedi de 8h30 à 18h"
-		},
-		{
-			"nom": "50 Nuances",
-			"adresse": "783 rue Pasteur",
-			"quartier": "centre-commercial Intermarché",
-			"telephone": "03 44 31 60 59",
-			"horaires": "Du mardi au vendredi de 9h à 19h, et le samedi de 8h30 à 18h"
-		},
-		{
-			"nom": "Saint Algue",
-			"adresse": "783 rue Pasteur",
-			"quartier": "centre-commercial Leclerc",
-			"telephone": "03 44 64 02 35",
-			"horaires": "Du mardi au samedi de 9h à 19h30"
-		}
-	]
+    "Coiffure": [
+        {
+            "nom": "Salon 1+Diffusion",
+            "adresse": "23 rue Charles Lescot",
+            "quartier": "centre-ville",
+            "telephone": "03 44 70 17 60",
+            "horaires": "Du mardi au vendredi de 9h à 19h, et le samedi de 8h à 17h"
+        },
+        {
+            "nom": "TCHIP",
+            "adresse": "19 rue Georges Decroze",
+            "quartier": "centre-ville",
+            "telephone": "03 44 32 26 71",
+            "horaires": "Du mardi au vendredi de 9h à 19h, et le samedi de 8h30 à 18h"
+        },
+        {
+            "nom": "50 Nuances",
+            "adresse": "783 rue Pasteur",
+            "quartier": "centre-commercial Intermarché",
+            "telephone": "03 44 31 60 59",
+            "horaires": "Du mardi au vendredi de 9h à 19h, et le samedi de 8h30 à 18h"
+        },
+        {
+            "nom": "Saint Algue",
+            "adresse": "783 rue Pasteur",
+            "quartier": "centre-commercial Leclerc",
+            "telephone": "03 44 64 02 35",
+            "horaires": "Du mardi au samedi de 9h à 19h30"
+        }
+    ]
 }
