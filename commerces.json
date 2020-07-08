@@ -1,0 +1,10 @@
+{
+	"Coiffure": [
+		{
+			"nom": "Salon 1+Diffusion",
+			"adresse": "rue Charles Lescot",
+			"quartier": "centre-ville",
+			"horaires": "Du mardi au samedi de X heure à Y heures"
+		}
+	]
+}
