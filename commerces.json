@@ -26,15 +26,23 @@
         },
         {
             "nom": "Stéf Coiff",
-            "adresse": "5 Rue Jean Perronet",
+            "adresse": "5 rue Jean Perronet",
             "quartier": "centre-ville",
             "telephone": "03 44 31 11 69"
         },
         {
             "nom": "Just For Men",
-            "adresse": "8 Rue Charles Lescot",
+            "adresse": "8 rue Charles Lescot",
             "quartier": "centre-ville",
             "telephone": "03 44 31 11 69"
+        }
+    ],
+    "Boucherie-Charcuterie": [
+        {
+            "nom": "Charcuterie Gorisse Franck",
+            "adresse": "58 rue Charles Lescot",
+            "quartier": "centre-ville",
+            "telephone": "03 44 72 21 15"
         }
     ]
 }
